@@ -3,7 +3,7 @@ package Lab_4;
 import java.util.Arrays;
 
 public class Lab_4_3 {
-    public static int[] editArray(int array[]){
+    public static int[] editArray(int[] array){
         if (array == null){
             throw new NullPointerException("array is null");
         }
