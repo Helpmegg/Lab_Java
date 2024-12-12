@@ -1,1 +1,1 @@
-My laboratory work on Java 
+Омельчук Денис ТЗ-22
